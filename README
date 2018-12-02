@@ -1,0 +1,2 @@
+This project is based on [gin](https://github.com/gin-gonic) project.
+Now I only add a redis part to gin's example, more feature is needed.
